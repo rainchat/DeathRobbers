@@ -1,0 +1,18 @@
+
+
+#Inventory slots that are not counted
+protected-slots:
+  - 36
+  - 37
+  - 38
+  - 39
+
+
+blackList: true
+# Black list, if enabled, these items drop out
+# if disabled, then only these items will not drop out
+protected-items:
+  1:
+    material: Diamond
+  2:
+    material: Emerald

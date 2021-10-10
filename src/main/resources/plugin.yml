@@ -1,0 +1,5 @@
+name: DeathRobbers
+version: ${project.version}
+main: com.rainchat.deathrobbers.DeathRobbers
+api-version: 1.17
+authors: [ rain_chat ]
